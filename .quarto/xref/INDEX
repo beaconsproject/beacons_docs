@@ -1,0 +1,145 @@
+{
+  "explore.qmd": {
+    "explore.html": "e439335d"
+  },
+  "index.qmd": {
+    "index.html": "3e679c05"
+  },
+  "learning-more.qmd": {
+    "learning-more.html": "bba1fb0c"
+  },
+  "quarto-workflows/browser.md": {
+    "browser.html": "0844b60e"
+  },
+  "quarto-workflows/index.qmd": {
+    "index.html": "470a2d4d"
+  },
+  "quarto-workflows/jupyter.md": {
+    "jupyter.html": "c5d8d6e1"
+  },
+  "quarto-workflows/rstudio.qmd": {
+    "rstudio.html": "988820c6"
+  },
+  "transition-from-rmarkdown.qmd": {
+    "transition-from-rmarkdown.html": "3b138598"
+  },
+  "presentations/index.qmd": {
+    "index.html": "d29f031a"
+  },
+  "workflows/browser.md": {
+    "browser.html": "f5fb49db"
+  },
+  "workflows/index.qmd": {
+    "index.html": "473c7440"
+  },
+  "workflows/jupyter.md": {
+    "jupyter.html": "ef1c6c28"
+  },
+  "workflows/rstudio.qmd": {
+    "rstudio.html": "461a7782"
+  },
+  "tools/browser.md": {
+    "browser.html": "a68c9bc4"
+  },
+  "tools/disturbance_explorer.qmd": {
+    "disturbance_explorer.html": "86f8544c"
+  },
+  "tools/geopackage_creator.qmd": {
+    "geopackage_creator.html": "73ea1863"
+  },
+  "tools/hydrology_explorer.qmd": {
+    "hydrology_explorer.html": "0a33fe3e"
+  },
+  "tools/index.qmd": {
+    "index.html": "69977924"
+  },
+  "tools/jupyter.md": {
+    "jupyter.html": "1ee09275"
+  },
+  "tools/rstudio.qmd": {
+    "rstudio.html": "93adf610"
+  },
+  "tools/disturbance_validation.qmd": {
+    "disturbance_validation.html": "747f8dc7"
+  },
+  "datasets.qmd": {
+    "datasets.html": "7b469ce2"
+  },
+  "mapping.qmd": {
+    "mapping.html": "fc5eac2d"
+  },
+  "packages.qmd": {
+    "packages.html": "c41574db"
+  },
+  "resources.qmd": {
+    "resources.html": "8add54a0"
+  },
+  "workflow.qmd": {
+    "workflow.html": "7cb51a4e"
+  },
+  "presentations/deux.qmd": {
+    "deux.pptx": "083858c4"
+  },
+  "presentations/geopackage_creator.qmd": {
+    "geopackage_creator.html": "f3a52890",
+    "geopackage_creator.pptx": "e6b803de",
+    "geopackage_creator.tex": "861a3fff"
+  },
+  "mapping/index.qmd": {
+    "index.html": "454a340c"
+  },
+  "mapping/workflow.qmd": {
+    "workflow.html": "4a8a41f5"
+  },
+  "mapping/automating.qmd": {
+    "automating.html": "b7f109ed"
+  },
+  "mapping/digitizing.qmd": {
+    "digitizing.html": "b8fd4f6b"
+  },
+  "mapping/temporal.qmd": {
+    "temporal.html": "2332aaf4"
+  },
+  "mapping/validation.qmd": {
+    "validation.html": "e6330f46"
+  },
+  "workflows/evaluating_connectivity_functional.qmd": {
+    "evaluating_connectivity_functional.html": "f5f78066"
+  },
+  "workflows/evaluating_connectivity_structural.qmd": {
+    "evaluating_connectivity_structural.html": "6c8f904e"
+  },
+  "workflows/evaluating_hydrology.qmd": {
+    "evaluating_hydrology.html": "f2e446a1"
+  },
+  "workflows/evaluating_intactness.qmd": {
+    "evaluating_intactness.html": "1062d963"
+  },
+  "workflows/mapping_disturbances.qmd": {
+    "mapping_disturbances.html": "2b9c335d"
+  },
+  "workflows/mapping_resistance.qmd": {
+    "mapping_resistance.html": "416fffbd"
+  },
+  "workflows/connectivity_functional.qmd": {
+    "connectivity_functional.html": "71088ad6"
+  },
+  "workflows/connectivity_structural.qmd": {
+    "connectivity_structural.html": "2afc1076"
+  },
+  "workflows/disturbance.qmd": {
+    "disturbance.html": "70d8c876"
+  },
+  "workflows/hydrology.qmd": {
+    "hydrology.html": "b0307f43"
+  },
+  "workflows/intactness.qmd": {
+    "intactness.html": "5a5c6a20"
+  },
+  "workflows/resistance.qmd": {
+    "resistance.html": "38dfaef9"
+  },
+  "mapping/automation.qmd": {
+    "automation.html": "8e10f48a"
+  }
+}

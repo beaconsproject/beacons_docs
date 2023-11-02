@@ -1,0 +1,5 @@
+---
+title: Structural connectivity
+---
+
+## Workflow: Evaluating structural connectivity

@@ -1,0 +1,25 @@
+---
+title: R Packages
+---
+
+## R Packages
+
+The BEACONs project currently maintains two R packages, *beaconstools* and *beaconsbuilder*, that provide a set of tools for building conservation areas and networks of conservation areas, and ranking them using ecological criteria.
+
+### beaconstools
+
+*beaconstools* provides a set of functions for creating networks of conservation areas, and ranking networks based on ecological attributes. beaconstools can be used with existing polygons describing conservation areas, or with conservation areas created with the partner package beaconsbuilder.
+
+You can visit the package website here: [https://github.com/beaconsproject/beaconstools](https://github.com/beaconsproject/beaconstools).
+
+<center><a href="https://github.com/beaconsproject/beaconstools"><img align="center" src="pics/beaconstools.png" width="400"></img></a></center>
+
+### beaconsbuilder
+
+*beaconsbuilder* allows you to build conservation areas following rules of size, intactness, and hydrological connectivity. You can visit the package website here: https://beaconsproject.github.io/beaconsbuilder.
+
+beaconsbuilder should be used together with the beaconstools package to construct and analyse sets of conservation areas. More details on how beaconsbuilder works can be found in vignette("builder").
+
+You can visit the package website here: [https://github.com/beaconsproject/beaconsbuilder](https://github.com/beaconsproject/beaconsbuilder).
+
+<center><a href="https://github.com/beaconsproject/beaconshydro"><img align="center" src="pics/beaconsbuilder.png" width="400"></img></a></center>

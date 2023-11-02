@@ -1,0 +1,1 @@
+Sitemap: https://beaconsproject.github.io/beacons_docs/sitemap.xml

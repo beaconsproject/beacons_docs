@@ -1,0 +1,13 @@
+---
+title: Workflows
+---
+
+In this section we describe several workflows that can be used to develop a regional disturbance database and apply it for conservation planning including: i) creating a landscape intactness or human footprint map; ii) evaluating the effects of cumulative disturbances on focal species or ecosytems; iii) assessing hydrological connectivity, iv) creating a resitance or permeability map for connectivity analysis, or v) assisting in the design of field surveys e.g., to evaluate the impacts of mining of caribou. (Figure 1). Currently, three workflows are described in more detail:
+
+1. Developing a regional disturbance database
+2. Evaluating landscape intactness
+3. Assessing ing hydrological connectivity
+
+<center><img src="pics/flowchart.png" width="80%">
+<br>*Figure 1. Overview of the process of creating a regional anthropogenic disturbance database for use in conservation planning applications.*<br><br>
+</center>
