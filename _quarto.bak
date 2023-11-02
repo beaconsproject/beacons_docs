@@ -1,0 +1,63 @@
+project: 
+  type: website
+  output-dir: docs
+  
+website: 
+  page-navigation: true
+  title: "BEACONs Conservation Planning and Analysis" 
+  site-url: "https://beaconsproject.github.io/beacons_docs" 
+  repo-url: https://github.com/beaconsproject/beacons_docs 
+  repo-actions: [edit, issue]
+  
+  page-footer:
+    right: "The BEACONs Project."
+    left: "&copy; CC-By BEACONs, 2023"
+    
+  sidebar:
+    logo: "images/logo.png"
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://beaconsproject.ualberta.ca/
+        text: "BEACONs Project"
+      - icon: github
+        href: https://github.com/beaconsproject/beacons_docs
+        text: "BEACONs Conservation Planning and Analysis"
+      - icon: twitter
+        href: https://twitter.com/vernier
+        text: "Vernier Twitter"         
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Welcome
+      - datasets.qmd
+      - section: workflows/index.qmd
+        contents:
+          - workflows/disturbance.qmd
+          - workflows/intactness.qmd
+          - workflows/hydrology.qmd
+      - section: tools/index.qmd
+        contents: 
+          - tools/geopackage_creator.qmd 
+          - tools/disturbance_explorer.qmd
+          - tools/hydrology_explorer.qmd
+      - packages.qmd
+      - resources.qmd
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+freeze: auto
+
+editor: visual

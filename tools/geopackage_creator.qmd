@@ -29,9 +29,7 @@ As a final step, you should open the newly created geopackage in a gis e.g., QGI
 
 Click on "Select study area" to upload a boundary layer in a geopackage file (".gpkg" extension).
 
-<center>
-<img src="pics_gpkg/select.png" width="80%">
-</center>
+<center><img src="pics_gpkg/select.png" width="80%"></center>
 
 ### 2. Create geopackage
 
