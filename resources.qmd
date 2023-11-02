@@ -14,7 +14,7 @@ In this section, we will be adding relevant publications, presentations, and boo
 
 Wolverines app (Jan 2023)
 
-- [Powerpoint presentation[(https://drive.google.com/file/d/15REnFhUNNPtEkyuAeVzRciYvhtz50ZDP/view)
+- [Powerpoint presentation](https://drive.google.com/file/d/15REnFhUNNPtEkyuAeVzRciYvhtz50ZDP/view)
 - [App demo](https://www.youtube.com/watch?v=fgQ3PaJIXsg)
 
 BC PARF Forum 2022 (Dec 2022)
@@ -23,3 +23,5 @@ BC PARF Forum 2022 (Dec 2022)
 - [Applications of Disturbance Mapping to Conservation Planning](https://cpcil.ca/bcparf-2022-concurrent-conservation-case-studies/)
 
 ## Bookmarks
+
+- [Conservation Corridon](https://conservationcorridor.org/)
